@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//div[@class='item']/i[@class='dz flag'])[1]"
+}

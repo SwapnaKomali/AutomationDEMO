@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1674101241518' stop='1674101245306'>
+    <name>testDropdown</name>
+    <title>testDropdown</title>
+    <test-cases>
+        <test-case start='1674101241520' status='broken' stop='1674101245305'>
+            <name>Test</name>
+            <title>Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.75'/>
+            </parameters>
+            <steps>
+                <step start='1674101241523' status='passed' stop='1674101244407'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='cc0f8628-5d38-415a-a549-28d09a528583-attachment.json' type='application/json' size='72'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674101244407' status='passed' stop='1674101244604'>
+                    <name>POST /session/:sessionId/window/maximize</name>
+                    <title>POST /session/:sessionId/window/maximize</title>
+                    <attachments>
+                        <attachment title='Response' source='53345911-cdd6-4786-839b-25b2c60053e2-attachment.json' type='application/json' size='58'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674101244605' status='passed' stop='1674101244729'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='bd1a9966-f913-4340-bcd4-38e0dea0c2a9-attachment.json' type='application/json' size='81'/>
+                        <attachment title='Response' source='29e685d2-f7d3-438e-afad-daf0ebfb2597-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674101244749' status='passed' stop='1674101244782'>
+                    <name>POST /session/:sessionId/execute/sync</name>
+                    <title>POST /session/:sessionId/execute/sync</title>
+                    <attachments>
+                        <attachment title='Request' source='b5dcb8fd-a954-4664-92c1-2f6d1510ec9b-attachment.json' type='application/json' size='8384'/>
+                        <attachment title='Response' source='1baf7704-016e-4a56-aaa3-88080387bcb7-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674101244783' status='passed' stop='1674101244799'>
+                    <name>POST /session/:sessionId/execute/sync</name>
+                    <title>POST /session/:sessionId/execute/sync</title>
+                    <attachments>
+                        <attachment title='Request' source='4537f449-6917-4cb1-ba57-d14602ed34f0-attachment.json' type='application/json' size='5651'/>
+                        <attachment title='Response' source='782e3d80-8473-478b-8792-7fb473b7598f-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674101244799' status='passed' stop='1674101244870'>
+                    <name>POST /session/:sessionId/element/d7ed8418-5b9b-442b-90ba-1c63e4fa0abb/click</name>
+                    <title>POST /session/:sessionId/element/d7ed8418-5b9b-442b-90ba-1c63e4fa0abb/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1674101244870' status='passed' stop='1674101244919'>
+                    <name>POST /session/:sessionId/element/d7ed8418-5b9b-442b-90ba-1c63e4fa0abb/element</name>
+                    <title>POST /session/:sessionId/element/d7ed8418-5b9b-442b-90ba-1c63e4fa0abb/element</title>
+                    <attachments>
+                        <attachment title='Request' source='89a959df-2b16-4d53-8de5-fcd6b2ec62a9-attachment.json' type='application/json' size='141'/>
+                        <attachment title='Response' source='45607049-0e4f-406d-a3cd-906cf9cc821f-attachment.json' type='application/json' size='1077'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674101244938' status='passed' stop='1674101245304'>
+                    <name>GET /session/:sessionId/screenshot</name>
+                    <title>GET /session/:sessionId/screenshot</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='0a75b72c-930d-48e2-b1a0-3ac00706ebfa-attachment.png' type='image/png' size='138869'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Option with attribute "value=Andorra" not found.</message>
+                <stack-trace>Error: Option with attribute "value=Andorra" not found.
+                    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+                    at async Context.&lt;anonymous> (file:///C:/Users/SKOMALI/OneDrive%20-%20Capgemini/Documents/ABC/WDIO_e2e_testing/test/specs/Dropdown.ts:13:6)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

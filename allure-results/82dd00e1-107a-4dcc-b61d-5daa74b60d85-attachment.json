@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@type=\"checkbox\"][21]\"}\n  (Session info: chrome=109.0.5414.75)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x008AF243]\n\t(No symbol) [0x00837FD1]\n\t(No symbol) [0x0072D04D]\n\t(No symbol) [0x0075C0B0]\n\t(No symbol) [0x0075C22B]\n\t(No symbol) [0x0078E612]\n\t(No symbol) [0x007785D4]\n\t(No symbol) [0x0078C9EB]\n\t(No symbol) [0x00778386]\n\t(No symbol) [0x0075163C]\n\t(No symbol) [0x0075269D]\n\tGetHandleVerifier [0x00B49A22+2655074]\n\tGetHandleVerifier [0x00B3CA24+2601828]\n\tGetHandleVerifier [0x00958C0A+619850]\n\tGetHandleVerifier [0x00957830+614768]\n\t(No symbol) [0x008405FC]\n\t(No symbol) [0x00845968]\n\t(No symbol) [0x00845A55]\n\t(No symbol) [0x0085051B]\n\tBaseThreadInitThunk [0x76DD6BD9+25]\n\tRtlGetFullPathName_UEx [0x775F8FD2+1218]\n\tRtlGetFullPathName_UEx [0x775F8F9D+1165]\n"
+}

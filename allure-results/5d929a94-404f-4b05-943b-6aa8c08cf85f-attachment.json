@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@class='shopping_cart_badge']\"}\n  (Session info: chrome=108.0.5359.125)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x0056F243]\n\t(No symbol) [0x004F7FD1]\n\t(No symbol) [0x003ED04D]\n\t(No symbol) [0x0041C0B0]\n\t(No symbol) [0x0041C22B]\n\t(No symbol) [0x0044E612]\n\t(No symbol) [0x004385D4]\n\t(No symbol) [0x0044C9EB]\n\t(No symbol) [0x00438386]\n\t(No symbol) [0x0041163C]\n\t(No symbol) [0x0041269D]\n\tGetHandleVerifier [0x00809A22+2655074]\n\tGetHandleVerifier [0x007FCA24+2601828]\n\tGetHandleVerifier [0x00618C0A+619850]\n\tGetHandleVerifier [0x00617830+614768]\n\t(No symbol) [0x005005FC]\n\t(No symbol) [0x00505968]\n\t(No symbol) [0x00505A55]\n\t(No symbol) [0x0051051B]\n\tBaseThreadInitThunk [0x773C6BD9+25]\n\tRtlGetFullPathName_UEx [0x77AD8FD2+1218]\n\tRtlGetFullPathName_UEx [0x77AD8F9D+1165]\n"
+}

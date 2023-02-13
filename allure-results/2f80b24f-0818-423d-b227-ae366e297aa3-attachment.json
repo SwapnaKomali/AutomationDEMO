@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"entry-content\"]/table/tbody/tr[8]/td[2]//strong[contains(text(),\"Argentina\")]"
+}

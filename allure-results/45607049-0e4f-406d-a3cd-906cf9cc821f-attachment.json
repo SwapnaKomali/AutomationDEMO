@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"./option[normalize-space(@value) = \"Andorra\"]|./optgroup/option[normalize-space(@value) = \"Andorra\"]\"}\n  (Session info: chrome=109.0.5414.75)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x0107F243]\n\t(No symbol) [0x01007FD1]\n\t(No symbol) [0x00EFD04D]\n\t(No symbol) [0x00F2C0B0]\n\t(No symbol) [0x00F2C22B]\n\t(No symbol) [0x00F22CA1]\n\t(No symbol) [0x00F485D4]\n\t(No symbol) [0x00F22BFF]\n\t(No symbol) [0x00F48804]\n\t(No symbol) [0x00F5C9EB]\n\t(No symbol) [0x00F48386]\n\t(No symbol) [0x00F2163C]\n\t(No symbol) [0x00F2269D]\n\tGetHandleVerifier [0x01319A22+2655074]\n\tGetHandleVerifier [0x0130CA24+2601828]\n\tGetHandleVerifier [0x01128C0A+619850]\n\tGetHandleVerifier [0x01127830+614768]\n\t(No symbol) [0x010105FC]\n\t(No symbol) [0x01015968]\n\t(No symbol) [0x01015A55]\n\t(No symbol) [0x0102051B]\n\tBaseThreadInitThunk [0x76DD6BD9+25]\n\tRtlGetFullPathName_UEx [0x775F8FD2+1218]\n\tRtlGetFullPathName_UEx [0x775F8F9D+1165]\n"
+}

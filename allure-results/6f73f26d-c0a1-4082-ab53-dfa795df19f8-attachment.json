@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//table[@id =\"countries\"]//tr//td//strong[contains(text(),\"Bolivia\")]"
+}

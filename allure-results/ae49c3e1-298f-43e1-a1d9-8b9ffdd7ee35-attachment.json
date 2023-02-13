@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@class=\"ui-state-default ui-state-highlight\"]\"}\n  (Session info: chrome=109.0.5414.75)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x0115F243]\n\t(No symbol) [0x010E7FD1]\n\t(No symbol) [0x00FDD04D]\n\t(No symbol) [0x0100C0B0]\n\t(No symbol) [0x0100C22B]\n\t(No symbol) [0x0103E612]\n\t(No symbol) [0x010285D4]\n\t(No symbol) [0x0103C9EB]\n\t(No symbol) [0x01028386]\n\t(No symbol) [0x0100163C]\n\t(No symbol) [0x0100269D]\n\tGetHandleVerifier [0x013F9A22+2655074]\n\tGetHandleVerifier [0x013ECA24+2601828]\n\tGetHandleVerifier [0x01208C0A+619850]\n\tGetHandleVerifier [0x01207830+614768]\n\t(No symbol) [0x010F05FC]\n\t(No symbol) [0x010F5968]\n\t(No symbol) [0x010F5A55]\n\t(No symbol) [0x0110051B]\n\tBaseThreadInitThunk [0x76596BD9+25]\n\tRtlGetFullPathName_UEx [0x77378FD2+1218]\n\tRtlGetFullPathName_UEx [0x77378F9D+1165]\n"
+}
